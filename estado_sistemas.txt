@@ -1,4 +1,4 @@
-Registro deñl sistema
-caso de estudio SIGIA
-Estado: Probado
-Observaciones: Pruebas realizadas correctamente
+Registro del sistema
+Sistema SIGIA
+Estado: Aprobado
+Observaciones: Version aprobada para entrega
